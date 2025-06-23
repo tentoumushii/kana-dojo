@@ -122,7 +122,7 @@ body {
   --border-color: hsl(220, 16%, 40%);
 
   --main-color: hsl(92, 28%, 65%);
-  --secondary-color: hsl(92, 14%, 65%);
+  --secondary-color: rgb(200, 157, 191);
 }
 
 /* Midnight Theme */
